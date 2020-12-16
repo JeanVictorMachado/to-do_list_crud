@@ -13,38 +13,6 @@ O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apag
   <li>Styled Components</li>
 </ul>
 
-<p>With the main technologies on each being:</p>
-
-<ol>
-<li>React JS</li>
-</ol>
-
-<ul>
-<li>React, obviously.</li>
-<li>Styled Components for styling</li>
-<li>React-Router-Dom for navigating (Routing)</li>
-<li>Yup for form validation</li>
-<li>Unform for form control</li>
-<li>ESLint to enforce and correct code style</li>
-</ul>
-
-<ol start="2">
-<li>NodeJS</li>
-</ol>
-
-<ul>
-<li>NodeJS, obviously</li>
-<li>Express for routing</li>
-<li>Jsonwebtoken for auth signing</li>
-<li>Multer, csv-parse and csvtojson for CSV uploading</li>
-<li>Postgres for database</li>
-<li>TypeORM as a ORM</li>
-<li>bcryptjs as a password encrypt dependency</li>
-<li>uuid as a unique id generator</li>
-<li>ts-node-dev to set up the typescript server</li>
-<li>ESLint to enforce and correct code style</li>
-</ul>
-
 <h3><a id="user-content-constraints-rules" class="anchor" aria-hidden="true" href="#constraints-rules"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Constraints (Rules)</h3>
 
 <ul>
