@@ -59,4 +59,8 @@ Aplicativo que permite o usuário criar, ler, atualizar e apagar uma tarefa, uti
 
 <p>Check out 2 gifs of the application:</p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="/fabiosenracorrea/goFinance/blob/master/project-login.gif"><img src="/fabiosenracorrea/goFinance/raw/master/project-login.gif" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="/fabiosenracorrea/goFinance/raw/master/project-login.gif" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="imagem-Task-ToDo.png.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="imagem-QrCode-ToDo.png.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
