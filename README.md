@@ -17,8 +17,8 @@ O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apag
 
 <ul>
   <li>Nessa versão desktop ao abrir o aplicativo a primeira tela será a de sincronizar celular onde o usuário deverá fazer o sincronismo utilizando o QrCode que aparecerá;</li>
-  <li>The application will redirect the user to the login page if he tries to access any private route while being logged out;</li>
-  <li>The application will redirect the user to the dashboard page he tries to access the login/register page while being logged in;</li>
+  <li>Após o sincronismo o usuário será drecionada a tela Home que mostra todas as tarefas cadastradas até o momento, mas também sendo possivel filtrar as tarefas pelo dia, semana, mês ou ano, e no canto superior direito mostrará um sino sempre que houver tarefas um atraso;</li>
+  <li>Para cadastrar uma tarefa basta clicar em nova tarefa, o usuário será direcionado ;</li>
   <li>Only logged in users can create/list/delete transactions</li>
   <li>User's password is encrypted before it's saved onto the database</li>
   <li>User's log token is saved onto the browser's local storage</li>
