@@ -17,7 +17,6 @@ export const QrCodeArea = styled.div`
 
 export const Content = styled.div`
   width: 50%;
-  margin-top: 25px;
 
   display: flex;
   flex-direction: column;

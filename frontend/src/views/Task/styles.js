@@ -18,7 +18,7 @@ export const Form = styled.div`
 
 export const TypeIcons = styled.div`
   width: 100%;
-  margin-top: 25px;
+  margin-top: 15px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -48,7 +48,7 @@ export const TypeIcons = styled.div`
 
 export const Input = styled.div`
   width: 100%;
-  margin: 20px 0;
+  margin: 15px 0;
   display: flex;
   flex-direction: column;
 
@@ -74,7 +74,7 @@ export const Input = styled.div`
 
 export const TextArea = styled.div`
   width: 100%;
-  margin: 20px 0;
+  margin: 5px 0;
   display: flex;
   flex-direction: column;
 
@@ -84,6 +84,7 @@ export const TextArea = styled.div`
   }
 
   textarea {
+    margin-top: 10px;
     font-size: 16px;
     padding: 10px;
     border: none;
@@ -103,7 +104,7 @@ export const Options = styled.div`
     color: #EE6B26;
     font-weight: bold;
     font-size: 18px;
-    margin-top: 10px;
+    margin-top: 5px;
   }
 
   button {
