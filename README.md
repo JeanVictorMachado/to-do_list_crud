@@ -53,5 +53,4 @@ O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apag
   <source src="ToDo-List-CRUD.webm" type="video/webm">
 </video>
 
-![goFinance login-register pages](./ToDo-List-CRUD.webm)
 
